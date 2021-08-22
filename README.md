@@ -71,5 +71,6 @@
   - Null safety: https://www.geeksforgeeks.org/kotlin-null-safety/
   - Elvis Operator(?:) https://www.geeksforgeeks.org/kotlin-elvis-operator/
   - Sealed classes: https://www.journaldev.com/18719/kotlin-sealed-class
+  - https://blog.mindorks.com/flatmap-vs-map-in-kotlin
 
 
