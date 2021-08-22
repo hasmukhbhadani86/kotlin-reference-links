@@ -58,7 +58,7 @@
         
   - MVVM + Room + Coroutines + DataBinding: https://github.com/AnushkaMadusanka/RoomDemo
   
-  - Other Operation:
+  - Other Operation [Series Network Calls, Parallel Network Calls etc]
     - https://github.com/MindorksOpenSource/Kotlin-Coroutines-Android-Examples
 
 
