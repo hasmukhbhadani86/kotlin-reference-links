@@ -3,6 +3,8 @@
 - Get started:
   - Fundamentals: https://www.tutorialkart.com/kotlin-tutorial/
   - Videos: https://www.youtube.com/watch?v=iC8LRjd67Ds&list=RDCMUC0FPjuZLQ16UpvLtbs6LYpg&start_radio=1
+
+- Visibility Modifiers:https://www.journaldev.com/20235/kotlin-visibility-modifiers-public-protected-internal-private
   
 - var / val / const
   - https://stackoverflow.com/questions/37595936/what-is-the-difference-between-const-and-val
@@ -21,7 +23,7 @@
 - Higher-Order Functions: https://play.kotlinlang.org/byExample/04_functional/01_Higher-Order%20Functions
 - Inline Function: https://www.javatpoint.com/kotlin-inline-function
 
-- Special Class: [Data,Enum,Sealed, Object]
+- Special Class: [Data,Enum,Sealed,Object]
 - https://play.kotlinlang.org/byExample/03_special_classes/01_Data%20classes
   
 - Collection
@@ -62,5 +64,12 @@
   
   - Other Operation [Series Network Calls, Parallel Network Calls etc]
     - https://github.com/MindorksOpenSource/Kotlin-Coroutines-Android-Examples
+
+
+# Interview Questions:
+  - Singleton Class: https://www.journaldev.com/18662/kotlin-singleton-companion-object
+  - Null safety: https://www.geeksforgeeks.org/kotlin-null-safety/
+  - Elvis Operator(?:) https://www.geeksforgeeks.org/kotlin-elvis-operator/
+  - Sealed classes: https://www.journaldev.com/18719/kotlin-sealed-class
 
 
