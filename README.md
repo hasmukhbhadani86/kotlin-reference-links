@@ -15,7 +15,8 @@
 - Scop Function [let, run, also, apply]
   - Overview: https://play.kotlinlang.org/byExample/06_scope_functions/01_let
   - Video: https://www.youtube.com/watch?v=AiFBEH54Xpw  
-  
+
+- Companion object: https://blog.mindorks.com/companion-object-in-kotlin  
 - Extention function: https://antonioleiva.com/extension-functions-kotlin/
 - Higher-Order Functions: https://play.kotlinlang.org/byExample/04_functional/01_Higher-Order%20Functions
 - Inline Function: https://www.javatpoint.com/kotlin-inline-function
@@ -51,7 +52,7 @@
      
 - Flow: https://blog.mindorks.com/what-is-flow-in-kotlin-and-how-to-use-it-in-android-project
 
-# EXAMPLES:
+# Examples:
   - MVVM + Coroutines + Retrofit: 
     - https://www.javacodemonk.com/kotlin-coroutines-with-retrofit-and-livedata-790f6376
     - https://blog.mindorks.com/using-retrofit-with-kotlin-coroutines-in-android
