@@ -33,7 +33,7 @@
     - https://www.youtube.com/watch?v=Je_YXshSFmY
     - https://www.youtube.com/watch?v=73RTzuFWqm4
   
-  - Volatile	https://steemit.com/volatile/@sharpchain/how-to-use-volatile-in-kotlin
+ - Volatile	https://steemit.com/volatile/@sharpchain/how-to-use-volatile-in-kotlin
   
   # Kotlin Coroutine
   
