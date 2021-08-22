@@ -1,8 +1,8 @@
 # kotlin Reference Links
 
 - Get started:
-  - Fundamental: https://www.tutorialkart.com/kotlin-tutorial/
-  - Video: https://www.youtube.com/watch?v=iC8LRjd67Ds&list=RDCMUC0FPjuZLQ16UpvLtbs6LYpg&start_radio=1
+  - Fundamentals: https://www.tutorialkart.com/kotlin-tutorial/
+  - Videos: https://www.youtube.com/watch?v=iC8LRjd67Ds&list=RDCMUC0FPjuZLQ16UpvLtbs6LYpg&start_radio=1
   
 - var / val / const
   - https://stackoverflow.com/questions/37595936/what-is-the-difference-between-const-and-val
@@ -36,4 +36,13 @@
  - Volatile	https://steemit.com/volatile/@sharpchain/how-to-use-volatile-in-kotlin
   
   # Kotlin Coroutine
-  
+   - Fundamentals: https://www.geeksforgeeks.org/kotlin-coroutines-on-android/
+   - Videos: https://www.youtube.com/watch?v=eUfSmd-ntUI&list=PLk7v1Z2rk4hj6PpRhOLPNuNorZk2zaSF5
+   - Suspend Function: https://www.geeksforgeeks.org/suspend-function-in-kotlin-coroutines/
+   - runBlocking: https://www.geeksforgeeks.org/runblocking-in-kotlin-coroutines-with-example/?ref=rp
+   - Dispatchers: https://www.geeksforgeeks.org/dispatchers-in-kotlin-coroutines/?ref=rp
+   - Launch vs Async: 
+    - https://www.geeksforgeeks.org/launch-vs-async-in-kotlin-coroutines/?ref=rp
+    - Video: https://www.youtube.com/watch?v=nC30UiDv8Xc
+
+
