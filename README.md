@@ -38,7 +38,7 @@
   
  - Volatile	https://steemit.com/volatile/@sharpchain/how-to-use-volatile-in-kotlin
   
-# Kotlin Coroutine
+## Kotlin Coroutine
   - Fundamentals: https://www.geeksforgeeks.org/kotlin-coroutines-on-android/
   - Videos: https://www.youtube.com/watch?v=eUfSmd-ntUI&list=PLk7v1Z2rk4hj6PpRhOLPNuNorZk2zaSF5
    
@@ -54,7 +54,7 @@
      
 - Flow: https://blog.mindorks.com/what-is-flow-in-kotlin-and-how-to-use-it-in-android-project
 
-# Examples:
+## Examples:
   - MVVM + Coroutines + Retrofit: 
     - https://www.javacodemonk.com/kotlin-coroutines-with-retrofit-and-livedata-790f6376
     - https://blog.mindorks.com/using-retrofit-with-kotlin-coroutines-in-android
@@ -66,7 +66,7 @@
     - https://github.com/MindorksOpenSource/Kotlin-Coroutines-Android-Examples
 
 
-# Interview Questions:
+## Interview Questions:
   - Singleton Class: https://www.journaldev.com/18662/kotlin-singleton-companion-object
   - Null safety: https://www.geeksforgeeks.org/kotlin-null-safety/
   - Elvis Operator(?:) https://www.geeksforgeeks.org/kotlin-elvis-operator/
