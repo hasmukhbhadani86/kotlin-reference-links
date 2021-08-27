@@ -72,5 +72,8 @@
   - Elvis Operator(?:) https://www.geeksforgeeks.org/kotlin-elvis-operator/
   - Sealed classes: https://www.journaldev.com/18719/kotlin-sealed-class
   - https://blog.mindorks.com/flatmap-vs-map-in-kotlin
+  - Map vs Flatmap kotlin: https://blog.mindorks.com/flatmap-vs-map-in-kotlin
+  - What is Lambda: Function is also known as anonymous function because it has no name. Parameters are in the left side of the arrow and actual code is on the right side of the arrow.
+  - How to call extension functions from XML: https://stackoverflow.com/questions/49898669/kotlin-extension-functions-databinding
 
 
