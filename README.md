@@ -67,13 +67,26 @@
 
 
 # Interview Questions:
+
+  - Questions: https://www.journaldev.com/20567/kotlin-interview-questions
+  
   - Singleton Class: https://www.journaldev.com/18662/kotlin-singleton-companion-object
+  
   - Null safety: https://www.geeksforgeeks.org/kotlin-null-safety/
+  
   - Elvis Operator(?:) https://www.geeksforgeeks.org/kotlin-elvis-operator/
+  
   - Sealed classes: https://www.journaldev.com/18719/kotlin-sealed-class
-  - https://blog.mindorks.com/flatmap-vs-map-in-kotlin
+  
   - Map vs Flatmap kotlin: https://blog.mindorks.com/flatmap-vs-map-in-kotlin
+  
   - What is Lambda: Function is also known as anonymous function because it has no name. Parameters are in the left side of the arrow and actual code is on the right side of the arrow.
+  
   - How to call extension functions from XML: https://stackoverflow.com/questions/49898669/kotlin-extension-functions-databinding
+
+- Kotlin Flow vs LiveData : https://stackoverflow.com/questions/58773453/kotlin-flow-vs-android-livedata
+  - Example: https://proandroiddev.com/flow-livedata-what-are-they-best-use-case-lets-build-a-login-system-39315510666d
+
+
 
 
