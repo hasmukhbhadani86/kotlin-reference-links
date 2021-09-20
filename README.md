@@ -53,7 +53,7 @@
      - Video: https://www.youtube.com/watch?v=nC30UiDv8Xc
      
 ## Kotlin Fow API
-- OverVIew: https://blog.mindorks.com/what-is-flow-in-kotlin-and-how-to-use-it-in-android-project
+- OverView: https://blog.mindorks.com/what-is-flow-in-kotlin-and-how-to-use-it-in-android-project
 - PlayList: https://www.youtube.com/playlist?list=PL4EnMCc01RC0UA33dTubhauq_ksTFHm4X
 
 ## Examples:
