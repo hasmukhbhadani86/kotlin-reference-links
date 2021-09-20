@@ -52,7 +52,9 @@
      - https://www.geeksforgeeks.org/launch-vs-async-in-kotlin-coroutines/?ref=rp
      - Video: https://www.youtube.com/watch?v=nC30UiDv8Xc
      
-- Flow: https://blog.mindorks.com/what-is-flow-in-kotlin-and-how-to-use-it-in-android-project
+## Kotlin Fow API
+- OverVIew: https://blog.mindorks.com/what-is-flow-in-kotlin-and-how-to-use-it-in-android-project
+- PlayList: https://www.youtube.com/playlist?list=PL4EnMCc01RC0UA33dTubhauq_ksTFHm4X
 
 ## Examples:
   - MVVM + Coroutines + Retrofit: 
