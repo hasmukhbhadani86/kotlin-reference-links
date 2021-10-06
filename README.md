@@ -70,10 +70,10 @@
     - Video : https://www.youtube.com/watch?v=5OrK81ZRoNY
     - Code: https://github.com/nameisjayant/MVVM-DaggerHilt-Retrofit-Sealed-Class-StateFlow-Coroutines-In-Android
 
-  - MVVM + DaggerHilt + Retrofit + Coroutines + Flow + Room
+ - MVVM + DaggerHilt + Retrofit + Coroutines + Flow + Room
     - https://github.com/nameisjayant/Dagger-hilt-with-RoomDatabase-and-Retrofit-in-Android     
   
-  - Other Operation [Series Network Calls, Parallel Network Calls etc]
+ - Other Operation [Series Network Calls, Parallel Network Calls etc]
     - https://github.com/MindorksOpenSource/Kotlin-Coroutines-Android-Examples
 
 
