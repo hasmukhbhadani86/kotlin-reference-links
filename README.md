@@ -91,7 +91,7 @@
   
   - Map vs Flatmap kotlin: https://blog.mindorks.com/flatmap-vs-map-in-kotlin
 
-  -@JVMStatic and @JVMField : 
+  - @JVMStatic and @JVMField : 
      - https://blog.mindorks.com/jvmstatic-jvmoverloads-and-jvmfield-in-kotlin
      - https://www.geeksforgeeks.org/jvmstatic-jvmoverloads-and-jvmfield-in-kotlin/
   
