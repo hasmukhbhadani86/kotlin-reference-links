@@ -90,6 +90,10 @@
   - Sealed classes: https://www.journaldev.com/18719/kotlin-sealed-class
   
   - Map vs Flatmap kotlin: https://blog.mindorks.com/flatmap-vs-map-in-kotlin
+
+  -@JVMStatic and @JVMField : 
+      - https://blog.mindorks.com/jvmstatic-jvmoverloads-and-jvmfield-in-kotlin
+      - https://www.geeksforgeeks.org/jvmstatic-jvmoverloads-and-jvmfield-in-kotlin/
   
   - What is Lambda: Function is also known as anonymous function because it has no name. Parameters are in the left side of the arrow and actual code is on the right side of the arrow.
   
