@@ -25,6 +25,7 @@
 
 - Special Class: [Data,Enum,Sealed,Object]
 - https://play.kotlinlang.org/byExample/03_special_classes/01_Data%20classes
+- Example - API Response: https://medium.com/@bhavnathacker14/dealing-with-multiple-apis-via-retrofit-learn-how-to-use-sealed-classes-effectively-eee01b2bff45
   
 - Collection
   - Overview: 
