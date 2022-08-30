@@ -85,7 +85,7 @@
 
   - Questions: https://www.journaldev.com/20567/kotlin-interview-questions
   
-  - Singleton Class: https://www.journaldev.com/18662/kotlin-singleton-companion-object
+  - Singleton Class: https://blog.mindorks.com/how-to-create-a-singleton-class-in-kotlin
   
   - Null safety: https://www.geeksforgeeks.org/kotlin-null-safety/
   
