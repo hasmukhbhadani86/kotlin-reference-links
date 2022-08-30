@@ -11,7 +11,8 @@
   - https://blog.mindorks.com/what-is-the-difference-between-const-and-val
 
 - lateinit vs lazy
-  - https://ahsensaeed.com/differences-between-kotlin-lazy-lateinit-delegate/
+  - lateinit can only be used with a var property whereas lazy will always be used with val property. 
+  - A lateinit property can be reinitialised again and again as per the use whereas the lazy property can only be initialised once.
   - https://blog.mindorks.com/learn-kotlin-lateinit-vs-lazy
   
 - Scop Function [let, run, also, apply]
@@ -58,6 +59,7 @@
 ## Kotlin Fow API
 - OverView: https://blog.mindorks.com/what-is-flow-in-kotlin-and-how-to-use-it-in-android-project
 - PlayList: https://www.youtube.com/playlist?list=PL4EnMCc01RC0UA33dTubhauq_ksTFHm4X
+  - https://www.youtube.com/watch?v=kOpRhtbhftI&list=PLRKyZvuMYSIPJ84lXQSHMn8P-0J8jW5YT
 - StateFlow vs Flow vs SharedFlow vs LiveData: https://www.youtube.com/watch?v=6Jc6-INantQ
 
 ## Examples:
